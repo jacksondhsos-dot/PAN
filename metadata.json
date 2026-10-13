@@ -1,0 +1,6 @@
+{
+  "name": "Yash Pan Shop",
+  "description": "Official website for Yash Pan Shop (यश पान शॉप) - Premium paan shop near Railway Station & Bus Stand Road, Nanded, Maharashtra. View menu, get directions & WhatsApp inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
